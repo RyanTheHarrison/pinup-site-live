@@ -4,7 +4,7 @@
 // that Storm reports to the salon.
 (function () {
   var ID = 'G-LJZ4XR3WR5';
-  if (!/(^|\.)pinupsalon\.biz$/.test(location.hostname)) return;
+  if (!/(^|\.)pinupsalonseattle\.com$/.test(location.hostname)) return;
   var s = document.createElement('script');
   s.async = true;
   s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;

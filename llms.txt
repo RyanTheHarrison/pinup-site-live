@@ -90,12 +90,12 @@
 - Makeup application: Starting at $80
 
 ## Pages
-- [Services and prices](https://pinupsalon.biz/services/)
-- [Team](https://pinupsalon.biz/our-story/our-team/)
-- [Our story](https://pinupsalon.biz/our-story/)
-- [Portfolio](https://pinupsalon.biz/our-portfolio/)
-- [Contact](https://pinupsalon.biz/contact/)
-- [Book an appointment](https://pinupsalon.biz/book-an-appointment/)
+- [Services and prices](https://pinupsalonseattle.com/services/)
+- [Team](https://pinupsalonseattle.com/our-story/our-team/)
+- [Our story](https://pinupsalonseattle.com/our-story/)
+- [Portfolio](https://pinupsalonseattle.com/our-portfolio/)
+- [Contact](https://pinupsalonseattle.com/contact/)
+- [Book an appointment](https://pinupsalonseattle.com/book-an-appointment/)
 
 ## Social
 - Instagram: https://www.instagram.com/pinup_salon/
